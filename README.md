@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Brhyancodes](https://github.com/Brhyancodes)
 
-- 💬 Ask me about **APIS,react,Typescript**
+- 💬 Ask me about **APIS,react,JS and CSS**
 
 - 📫 How to reach me **brianweke1998@gmail.com**
 
