@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
-<h3 align="center">A passionate Front-End Engineer from Nairobi,Kenya</h3>
+<h3 align="center">A passionate Front-End Engineer from Nairobi, Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brhyancodes&label=Profile%20views&color=0e75b6&style=flat" alt="brhyancodes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brhyancodes" alt="brhyancodes" /></a> </p>
-
-- 🔭 I’m currently working on a **Full Stack Pharmacy Website**
+- 🔭 I’m currently working on **Full Stack Pharmacy Website**
 
 - 🌱 I’m currently learning **Next.js,React Native**
 
@@ -14,6 +12,8 @@
 - 📝 I regularly write articles on [https://medium.com/@brhyancodes](https://medium.com/@brhyancodes)
 
 - 💬 Ask me about **React,Typescript**
+
+- ⚡ Fun fact **Love connecting with strangers who share a growth mindset and are focused on becoming the best versions of themselves.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
