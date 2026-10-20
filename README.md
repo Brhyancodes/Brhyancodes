@@ -1,21 +1,113 @@
-# 💫 About Me:
-👋 Hey, I’m Brian<br><br>💻 Computer Science student passionate about building meaningful digital solutions.<br><br>🎓 From Codecademy (2023) → ALX Software Engineering (2024) → Stanford Data Science & Cloud Computing (2025) → University of the People (CS Bachelor’s) — growing across software, data, and leadership.<br><br>🚀 Selected for ALX Ventures, collaborating with startups in Fintech, EdTech, AgriTech, and ClimateTech.<br><br>🧠 Stack: React, Next.js, TypeScript, Python, Django, MySQL, Docker, Figma, Tailwind.<br><br>🌱 Working on my own startup via ALX Founder Academy — updates soon!<br><br>💬 I believe in potential unlocked through learning and community.<br><br>🎾 Outside of code: tennis, books, and travel.
+# Brian Wakhale
 
+### Computer Science Student | DevOps Engineer | Backend & Cloud-Native Systems
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/brian.dev_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brian-wakhale/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@brhyancodes) 
+Building reliable, scalable software with a growing focus on **backend engineering, cloud infrastructure, DevOps, and distributed systems.**
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Brhyancodes&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Brhyancodes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brhyancodes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[LinkedIn](https://www.linkedin.com/in/brian-wakhale/) · [GitHub](https://github.com/Brhyancodes)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Brhyancodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I'm a Computer Science student and software engineer interested in designing, building, and operating reliable software systems. My focus is on backend development, cloud-native infrastructure, automation, and distributed systems.
+
+My technology journey began in 2023 through Codecademy. Since then, I've continued developing my engineering skills through the ALX Africa Software Engineering Program, a McKinsey learning program, Stanford scholarship-supported studies in Data Science in Precision Medicine and Cloud Computing, and my Computer Science degree at the University of the People.
+
+In 2026, I joined a cloud-native training program through Andela in partnership with the Cloud Native Computing Foundation (CNCF), strengthening my understanding of Kubernetes, containerization, and modern DevOps practices.
+
+I'm particularly interested in how software is designed, deployed, scaled, and maintained in real-world environments.
+
+- 🔭 **Building:** Tumaini HealthTech
+- ☁️ **Focus:** DevOps, Cloud Engineering, Backend Development & Platform Engineering
+- 💻 **Backend:** Java, Spring Boot, REST APIs & Microservices
+- ⚙️ **Cloud-native:** Docker, Kubernetes, AWS & Linux
+- 🔄 **Distributed systems:** Apache Kafka, event-driven architecture & system design
+- 🎓 **Education:** Computer Science, University of the People
+- 🤝 **Open to:** Software Engineering, Backend, DevOps & Cloud Engineering opportunities
+
+---
+
+## Technical Focus
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,aws,linux,githubactions&theme=light" alt="Java, Spring, Docker, Kubernetes, AWS, Linux, and GitHub Actions" />
+</p>
+
+**Backend Engineering**
+- Java and Spring Boot
+- RESTful API development
+- Microservices architecture
+
+**DevOps & Cloud**
+- Docker and containerization
+- Kubernetes and orchestration
+- AWS cloud infrastructure
+- Linux and CI/CD automation
+
+**Distributed Systems & Computer Science**
+- Apache Kafka and event-driven systems
+- Data Structures & Algorithms (DSA)
+- System design and distributed systems fundamentals
+- Software architecture and problem-solving
+
+*This represents my core technical focus and learning direction, not a claim of production-level expertise in every technology.*
+
+---
+
+## Featured Project
+
+### Tumaini HealthTech
+
+A mission-driven HealthTech initiative focused on improving access to healthcare through scalable and intelligent technology.
+
+**Engineering direction**
+- Backend services and API design
+- Scalable, cloud-native architecture
+- Reliable data handling
+- Automation and modern deployment workflows
+
+I'm interested in building technology that combines sound engineering principles with meaningful real-world impact.
+
+---
+
+## Education & Learning
+
+| Program | Focus |
+|---|---|
+| University of the People | Bachelor's degree in Computer Science |
+| Andela × CNCF | Cloud-native technologies and DevOps practices |
+| Stanford University | Scholarship-supported studies in Data Science in Precision Medicine and Cloud Computing |
+| McKinsey & Company | Learning program |
+| ALX Africa | Software Engineering Program; Mastercard Foundation Scholar |
+| Codecademy | Programming and software development foundations |
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brhyancodes&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Brian's GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brhyancodes&layout=compact&hide_border=true&theme=transparent" alt="Most used languages across Brian's public repositories" height="165" />
+</p>
+
+---
+
+## Beyond Code
+
+Outside software engineering, I enjoy playing the guitar and piano, lawn tennis, cooking, and hiking. These interests help me maintain creativity, curiosity, and balance.
+
+---
+
+## Let's Connect
+
+I'm always interested in connecting with engineers, recruiters, founders, and teams building impactful technology.
+
+- **LinkedIn:** [Brian Wakhale](https://www.linkedin.com/in/brian-wakhale/)
+- **GitHub:** [@Brhyancodes](https://github.com/Brhyancodes)
+
+**Interested in:** Software Engineering · Backend Engineering · DevOps · Cloud Engineering · Platform Engineering
+
+---
+
+*Learning continuously. Building thoughtfully. Engineering for impact.*
