@@ -78,7 +78,8 @@ I'm interested in building technology that combines sound engineering principles
 | University of the People | Bachelor's degree in Computer Science |
 | Andela × CNCF | Cloud-native technologies and DevOps practices |
 | Stanford University | Scholarship-supported studies in Data Science in Precision Medicine and Cloud Computing |
-| McKinsey & Company | Learning program |
+| McKinsey & Company | Forwad Program |
+| Aspire Leaders Program| Leadership Program |
 | ALX Africa | Software Engineering Program; Mastercard Foundation Scholar |
 | Codecademy | Programming and software development foundations |
 
